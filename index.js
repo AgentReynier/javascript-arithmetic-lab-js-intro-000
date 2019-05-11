@@ -1,4 +1,2 @@
-//Test!
-Function add(a + b) {
-
-}
+//Test Lab
+add(a+ b)
