@@ -1,4 +1,4 @@
 //Test Lab
 function toEqual(add) {
-  add(a + b)
+  return (a + b)
 }
