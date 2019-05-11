@@ -1,4 +1,4 @@
 //Test Lab
-function toEqual(add) {
-  return (a + b)
+function add(toEqual) {
+  toEqual = a + b
 }
